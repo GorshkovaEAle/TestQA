@@ -1,8 +1,5 @@
 ﻿#language: ru
 
-@ExportScenarios
-@IgnoreOnCIMainBuild
-
 Функционал: Подготовительный сценарий
 
 Как Менеджер по продажам я хочу
